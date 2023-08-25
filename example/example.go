@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/febriliankr/whatsapp-cloud-api"
+	"github.com/imhinotori/whatsapp-cloud-api"
 	"github.com/joho/godotenv"
 )
 
